@@ -15,4 +15,4 @@ class Monster {
     }
   }
 }
-export Monster;
+export { Monster };
